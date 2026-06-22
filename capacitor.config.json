@@ -1,1 +1,6 @@
-
+{
+  "appId": "com.coffeecology.megenagna",
+  "appName": "Coffeecology",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
