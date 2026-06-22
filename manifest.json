@@ -1,16 +1,21 @@
 {
   "short_name": "Coffeecology",
-  "name": "Coffeecology Megenagna",
+  "name": "Coffeecology Premium Cafe Menu",
   "icons": [
     {
-      "src": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=192&auto=format&fit=crop",
-      "type": "image/png",
+      "src": "https://images.unsplash.com/photo-1511920170033-f8396924c348?q=80&w=192&auto=format&fit=crop",
+      "type": "image/jpeg",
       "sizes": "192x192"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1511920170033-f8396924c348?q=80&w=512&auto=format&fit=crop",
+      "type": "image/jpeg",
+      "sizes": "512x512"
     }
   ],
-  "start_url": "index.html",
-  "background_color": "#1A0F0A",
-  "theme_color": "#1A0F0A",
-  "display": "browser",
+  "start_url": "/Coffeecology/",
+  "background_color": "#0c0a09",
+  "theme_color": "#1c1917",
+  "display": "standalone",
   "orientation": "portrait"
 }
