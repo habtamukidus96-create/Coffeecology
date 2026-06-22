@@ -1,1 +1,15 @@
-
+{
+  "name": "coffeecology-app",
+  "version": "1.0.0",
+  "description": "Coffeecology Megenagna Mobile App",
+  "main": "index.js",
+  "scripts": {
+    "sync": "npx cap sync"
+  },
+  "dependencies": {
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0",
+    "@capacitor/android": "^5.0.0",
+    "@capacitor/ios": "^5.0.0"
+  }
+}
